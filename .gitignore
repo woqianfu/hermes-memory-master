@@ -1,0 +1,22 @@
+# Runtime
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.log
+.env
+*.bak.*
+state.db
+sessions.db
+
+# Personal
+*.private.*
+TOKEN_TRENDS.md
+meituan-coupon.py
+extract_wechat.py
+
+# Generated (user should run mm dashboard themselves)
+assets/dashboard.html
+
+# Archive
+archive/
